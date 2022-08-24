@@ -9,6 +9,10 @@ Une onde mécanique est caractérisée par:
 * Sa fréquence, notée en Hertz (Hz). Un hertz correspond à une oscillation par seconde. Les ultrasons sont, par définition, des ondes mécaniques de fréquence comprise entre 20 kHz et quelques GHz. En pratique médicale, on utilise des fréquences de 2 à 15 MHz.
 * Son amplitude, qui correspond à la valeur du pic de pression.
 
+{% hint style="warning" %}
+Plus un ultrason a une fréquence élevée, plus son énergie est importante, et plus il sera rapidement atténué dans les tissus : les hautes fréquences sont utiles pour les explorations superficielles, tandis que les basses fréquences sont utiles aux explorations profondes.
+{% endhint %}
+
 ## Comment les ultrasons sont-ils émis?
 
 La sonde émet l'ultrason au travers de cellules piézo-électriques. Un élément piézo-électrique est capable de convertir un signal électrique en pression, et inversement. Les cellules piézo-électriques sont ainsi à la fois émettrices et réceptrices.
@@ -31,6 +35,20 @@ Ainsi, la forme de la sonde et l'utilisation du décalage de phase permettent de
 {% hint style="info" %}
 Il existe trois types de sondes utilisées en médecine d'urgence : linéaire, curvilinéaire, phased array
 {% endhint %}
+
+|                     Sonde                    |                Linéaire                |                Curvilinéaire                |              Phased array              |
+| :------------------------------------------: | :------------------------------------: | :-----------------------------------------: | :------------------------------------: |
+|                                              | ![](../../.gitbook/assets/linear.jpeg) | ![](../../.gitbook/assets/curvilinear.jpeg) | ![](../../.gitbook/assets/phased.jpeg) |
+|                   Fréquence                  |               7.5-11 MHz               |                   2-5 MHz                   |                2-10 MHz                |
+|                    Abdomen                   |                    -                   |                      ++                     |                    +                   |
+|                Voies urinaires               |                    -                   |                      ++                     |                    +                   |
+|                    Poumons                   |                ++ (Apex)               |                  + (Bases)                  |      <p>++ (Bases)<br>+ (Apex)</p>     |
+|                     Coeur                    |                    -                   |       + (pour la coupe sous-xyphoïïde)      |                   ++                   |
+|                     Crâne                    |                    -                   |                      -                      |                   ++                   |
+|                Sein, thyroïde                |                   ++                   |                      -                      |                    -                   |
+| Os, muscles, vaisseaux des membres et du cou |                   ++                   |                      -                      |                    -                   |
+
+\[++ : sonde recommandée / + : usage possible / - : usage inadapté]
 
 ## Propagation, transmission, réflexion
 

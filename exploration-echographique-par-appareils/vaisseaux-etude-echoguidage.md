@@ -53,4 +53,4 @@ Une fois l'aiguille dans le vaisseau, le cathéter est inséré dans le vaisseau
 
 Pour la pose d'une voie veineuse centrale, l'approche hors du plan peut être utilisée pour les accès fémoral ou jugulaire. Pour l'approche jugulaire, on peut également utiliser l'approche oblique. Pour l'approche sous-clavière, il est nécessaire d'utiliser l'approche dans le plan.
 
-Pour les approches oblique et dans le plan, une fois le vaisseau repéré,&#x20;
+Pour les approches oblique et dans le plan, une fois le vaisseau repéré, l'aiguille est insérée dans le plan de coupe de l'échographe. Il est primordial de conserver l'aiguille dans ce plan : en effet, une coupe mal alignée donne une image mimant une extrémité d'aiguille plus proche que la réalité, de telle sorte que l'opérateur peut transfixier une cible profonde par erreur. L'aiguille est ainsi guidée jusqu'à la cible, et le guide inséré (sa position correcte pourra être vérifée par l'échographe).
