@@ -15,9 +15,12 @@
 ## Bases de l'échographie
 
 * [Intérêt de l'échographie en situation tactique](bases-de-lechographie/interet-de-lechographie-en-situation-tactique.md)
-* [Fonctionnement d'un échographe](bases-de-lechographie/fonctionnement-dun-echographe.md)
-* [Echogénécité et artefacts](bases-de-lechographie/echogenecite-et-artefacts.md)
-* [Paramétrage de l'échographe](bases-de-lechographie/parametrage-de-lechographe.md)
+* [Fonctionnement d'un échographe](bases-de-lechographie/fonctionnement-dun-echographe/README.md)
+  * [Emission, propagation et réception des ultrasons](bases-de-lechographie/fonctionnement-dun-echographe/emission-propagation-et-reception-des-ultrasons.md)
+  * [Formation de l'image et modes échographiques](bases-de-lechographie/fonctionnement-dun-echographe/formation-de-limage-et-modes-echographiques.md)
+  * [Artefacts](bases-de-lechographie/fonctionnement-dun-echographe/artefacts.md)
+  * [Paramétrage de l'échographe](bases-de-lechographie/fonctionnement-dun-echographe/parametrage-de-lechographe.md)
+  * [Effets néfastes des ultrasons](bases-de-lechographie/fonctionnement-dun-echographe/effets-nefastes-des-ultrasons.md)
 
 ## Exploration échographique par appareils
 
