@@ -11,21 +11,22 @@
   * [Les partenaires du projet (build)](informations-generales/qui-sommes-nous-build/les-partenaires-du-projet-build.md)
 * [Programme détaillé](informations-generales/programme-detaille.md)
 * [Journal des modifications du site](informations-generales/journal-des-modifications-du-site.md)
+* [Licence](informations-generales/licence.md)
 
 ## Bases de l'échographie
 
-* [Intérêt de l'échographie en situation tactique](bases-de-lechographie/interet-de-lechographie-en-situation-tactique.md)
-* [Fonctionnement d'un échographe](bases-de-lechographie/fonctionnement-dun-echographe/README.md)
+* [Intérêt de l'échographie en situation tactique (Building)](bases-de-lechographie/interet-de-lechographie-en-situation-tactique-building.md)
+* [Fonctionnement d'un échographe](bases-de-lechographie/fonctionnement-dun-echographe.md)
   * [Emission, propagation et réception des ultrasons](bases-de-lechographie/fonctionnement-dun-echographe/emission-propagation-et-reception-des-ultrasons.md)
   * [Formation de l'image et modes échographiques](bases-de-lechographie/fonctionnement-dun-echographe/formation-de-limage-et-modes-echographiques.md)
-  * [Artefacts](bases-de-lechographie/fonctionnement-dun-echographe/artefacts.md)
-  * [Paramétrage de l'échographe](bases-de-lechographie/fonctionnement-dun-echographe/parametrage-de-lechographe.md)
+  * [Artefacts](bases-de-lechographie/echogenecite-et-artefacts.md)
+  * [Paramétrage de l'échographe](bases-de-lechographie/parametrage-de-lechographe.md)
   * [Effets néfastes des ultrasons](bases-de-lechographie/fonctionnement-dun-echographe/effets-nefastes-des-ultrasons.md)
 
 ## Exploration échographique par appareils
 
 * [Abdomen](exploration-echographique-par-appareils/abdomen.md)
-* [Thorax](exploration-echographique-par-appareils/thorax.md)
+* [Poumons et cage thoracique](exploration-echographique-par-appareils/poumons-et-cage-thoracique.md)
 * [Coeur](exploration-echographique-par-appareils/coeur.md)
 * [Système squelettique](exploration-echographique-par-appareils/systeme-squelettique.md)
 * [Vaisseaux : étude, échoguidage](exploration-echographique-par-appareils/vaisseaux-etude-echoguidage.md)
