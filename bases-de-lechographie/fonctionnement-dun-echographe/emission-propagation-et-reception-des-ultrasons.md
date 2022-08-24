@@ -48,8 +48,6 @@ Il existe trois types de sondes utilisées en médecine d'urgence : linéaire, c
 |                Sein, thyroïde                |                   ++                   |                      -                      |                    -                   |
 | Os, muscles, vaisseaux des membres et du cou |                   ++                   |                      -                      |                    -                   |
 
-\[++ : sonde recommandée / + : usage possible / - : usage inadapté]
-
 ## Propagation, transmission, réflexion
 
 Les ondes ultrasoniques se propagent dans les milieux biologiques de proche en proche. Tout milieu biologique a une capacité plus ou moins grande à transmettre les ultrasons : on parle d'impédance acoustique. Un milieu avec une forte impédance acoustique transmettra plus facilement les ultrasons. Le long de ce trajet, une petite partie de l'énergie des ultrasons est diffusée au milieu, sous forme de chaleur
