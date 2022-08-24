@@ -1,32 +1,32 @@
 # Table of contents
 
-* [Bienvenue !](README.md)
+* [Welcome !](README.md)
 
 ## Informations générales
 
-* [Présentation de la formation](informations-generales/presentation-de-la-formation.md)
-* [Objectifs pédagogiques](informations-generales/objectifs-pedagogiques.md)
-* [Qui sommes nous ? (build)](informations-generales/qui-sommes-nous-build/README.md)
-  * [L'équipe pédagogique (build)](informations-generales/qui-sommes-nous-build/lequipe-pedagogique-build.md)
-  * [Les partenaires du projet (build)](informations-generales/qui-sommes-nous-build/les-partenaires-du-projet-build.md)
-* [Programme détaillé](informations-generales/programme-detaille.md)
-* [Journal des modifications du site](informations-generales/journal-des-modifications-du-site.md)
+* [Overview of the training programme](informations-generales/overview-of-the-training-programme.md)
+* [Learning objectives](informations-generales/learning-objectives.md)
+* [Who we are (build)](informations-generales/who-we-are-build/README.md)
+  * [The teaching team (build)](informations-generales/who-we-are-build/the-teaching-team-build.md)
+  * [Our partners (build)](informations-generales/who-we-are-build/our-partners-build.md)
+* [Detailed schedule](informations-generales/detailed-schedule.md)
+* [Site change log](informations-generales/site-change-log.md)
 * [Licence](informations-generales/licence.md)
 
-## Bases de l'échographie
+## Fundamentals of ultrasound
 
-* [Intérêt de l'échographie en situation tactique (Building)](bases-de-lechographie/interet-de-lechographie-en-situation-tactique.md)
-* [Fonctionnement d'un échographe](bases-de-lechographie/fonctionnement-dun-echographe.md)
-  * [Emission, propagation et réception des ultrasons](bases-de-lechographie/fonctionnement-dun-echographe/emission-propagation-et-reception-des-ultrasons.md)
-  * [Formation de l'image et modes échographiques](bases-de-lechographie/fonctionnement-dun-echographe/formation-de-limage-et-modes-echographiques.md)
-  * [Artefacts](bases-de-lechographie/echogenecite-et-artefacts.md)
-  * [Paramétrage de l'échographe](bases-de-lechographie/parametrage-de-lechographe.md)
-  * [Effets néfastes des ultrasons](bases-de-lechographie/fonctionnement-dun-echographe/effets-nefastes-des-ultrasons.md)
+* [Benefits of ultrasound in tactical situations (Building)](fundamentals-of-ultrasound/benefits-of-ultrasound-in-tactical-situations-building.md)
+* [How an ultrasound scanner works](fundamentals-of-ultrasound/how-an-ultrasound-scanner-works/README.md)
+  * [Emission, propagation and reception of ultrasound](fundamentals-of-ultrasound/how-an-ultrasound-scanner-works/emission-propagation-and-reception-of-ultrasound.md)
+  * [Formation de l'image et modes échographiques](fundamentals-of-ultrasound/how-an-ultrasound-scanner-works/formation-de-limage-et-modes-echographiques.md)
+  * [Artefacts](fundamentals-of-ultrasound/how-an-ultrasound-scanner-works/artefacts.md)
+  * [Paramétrage de l'échographe](fundamentals-of-ultrasound/how-an-ultrasound-scanner-works/parametrage-de-lechographe.md)
+  * [Effets néfastes des ultrasons](fundamentals-of-ultrasound/how-an-ultrasound-scanner-works/effets-nefastes-des-ultrasons.md)
 
 ## Exploration échographique par appareils
 
 * [Abdomen](exploration-echographique-par-appareils/abdomen.md)
-* [Poumons et cage thoracique](exploration-echographique-par-appareils/thorax.md)
+* [Poumons et cage thoracique](exploration-echographique-par-appareils/poumons-et-cage-thoracique.md)
 * [Coeur](exploration-echographique-par-appareils/coeur.md)
 * [Système squelettique](exploration-echographique-par-appareils/systeme-squelettique.md)
 * [Vaisseaux : étude, échoguidage](exploration-echographique-par-appareils/vaisseaux-etude-echoguidage.md)

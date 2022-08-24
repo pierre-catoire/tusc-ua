@@ -1,46 +1,50 @@
-# Bienvenue !
+# Welcome !
 
-Merci de vous être inscrit au Tactical Ultrasound Course for Ukraine (TUSC-UA) ! Ce programme de formation se déroulera sur deux jours&#x20;
+Thank you for registering for the Tactical Ultrasound Course for Ukraine (TUSC-UA)! This training programme will take place over two days.
 
-Vous trouverez sur ce site :&#x20;
+On this site you will find :
 
-* Une présentation de la formation : contexte, objectifs, contenu et programme
-* Les ressources pédagogiques couvrant chaque séance d'enseignement
-* Une banque d'images (en construction)
-* Des questionnaires pour vérifier la bonne acquisition des notions abordées (en construction)
+* A presentation of the course: context, objectives, content and programme
+* Educational resources covering each teaching session
+* An image bank (under construction)
+* Questionnaires to check the correct acquisition of the concepts covered (under construction)
 
 {% hint style="info" %}
-**A savoir :** la durée de formation en centre est restreinte, répartie sur deux jours. Pour optimiser l'acquisition des notions de cours, il est attendu de chaque participant qu'il aie lu et compris les prérequis présentés sur ce site. La formation en centre sera concentrée sur la manipulation de l'échographe, et il n'y aura pas de cours magistral reprenant les notions traitées sur ce site.
+**Please note:** the duration of the training at the centre is limited, spread over two days. To optimize the acquisition of the course notions, each participant is expected to have read and understood the prerequisites presented on this site. The training in the centre will be concentrated on the handling of the ultrasound scanner, and there will be no lecture repeating the notions treated on this site.
 {% endhint %}
 
-Ce site internet sera mis à jour régulièrement tout au long de la formation. N'hésitez pas à communiquer les erreurs que vous pourriez relever à [cette adresse mail](mailto:pierre.catoire.med@gmail.com).
+This website will be updated regularly throughout the course. Do not hesitate to communicate any errors you may find to [this email address](mailto:pierre.catoire.med@gmail.com).
 
-## Organisation du site
+## Website organisation
 
-Les sections du site sont réparties ainsi : &#x20;
+The sections of the site are divided as follows:
 
 {% tabs %}
-{% tab title="Informations générales" %}
-{% content-ref url="informations-generales/presentation-de-la-formation.md" %}
-[presentation-de-la-formation.md](informations-generales/presentation-de-la-formation.md)
+{% tab title="General information" %}
+{% content-ref url="informations-generales/overview-of-the-training-programme.md" %}
+[overview-of-the-training-programme.md](informations-generales/overview-of-the-training-programme.md)
 {% endcontent-ref %}
 
-{% content-ref url="informations-generales/objectifs-pedagogiques.md" %}
-[objectifs-pedagogiques.md](informations-generales/objectifs-pedagogiques.md)
+{% content-ref url="informations-generales/learning-objectives.md" %}
+[learning-objectives.md](informations-generales/learning-objectives.md)
 {% endcontent-ref %}
 
-{% content-ref url="informations-generales/qui-sommes-nous-build/" %}
-[qui-sommes-nous-build](informations-generales/qui-sommes-nous-build/)
+{% content-ref url="informations-generales/who-we-are-build/" %}
+[who-we-are-build](informations-generales/who-we-are-build/)
+{% endcontent-ref %}
+
+{% content-ref url="informations-generales/detailed-schedule.md" %}
+[detailed-schedule.md](informations-generales/detailed-schedule.md)
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="Ressources pédagogiques" %}
+{% tab title="Educational resources" %}
 
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Evaluations" %}
 
 {% endtab %}
 {% endtabs %}
 
-Dans la page suivante, nous présenterons le cadre général de la formation.
+On the following page, we will present the general framework of the training.
