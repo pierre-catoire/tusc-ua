@@ -15,7 +15,7 @@
 
 ## Bases de l'échographie
 
-* [Intérêt de l'échographie en situation tactique (Building)](bases-de-lechographie/interet-de-lechographie-en-situation-tactique-building.md)
+* [Intérêt de l'échographie en situation tactique (Building)](bases-de-lechographie/interet-de-lechographie-en-situation-tactique.md)
 * [Fonctionnement d'un échographe](bases-de-lechographie/fonctionnement-dun-echographe.md)
   * [Emission, propagation et réception des ultrasons](bases-de-lechographie/fonctionnement-dun-echographe/emission-propagation-et-reception-des-ultrasons.md)
   * [Formation de l'image et modes échographiques](bases-de-lechographie/fonctionnement-dun-echographe/formation-de-limage-et-modes-echographiques.md)
@@ -26,7 +26,7 @@
 ## Exploration échographique par appareils
 
 * [Abdomen](exploration-echographique-par-appareils/abdomen.md)
-* [Poumons et cage thoracique](exploration-echographique-par-appareils/poumons-et-cage-thoracique.md)
+* [Poumons et cage thoracique](exploration-echographique-par-appareils/thorax.md)
 * [Coeur](exploration-echographique-par-appareils/coeur.md)
 * [Système squelettique](exploration-echographique-par-appareils/systeme-squelettique.md)
 * [Vaisseaux : étude, échoguidage](exploration-echographique-par-appareils/vaisseaux-etude-echoguidage.md)
