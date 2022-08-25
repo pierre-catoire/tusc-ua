@@ -18,7 +18,7 @@ The programme benefits from the most recent innovations in technical (internatio
 
 ## Key dates
 
-* 24 February 2022: Russian full invasion of Ukraine begins
-* 6 March 2022: UOSSM and the Chain of Hope decide the constitution of a training programme for Ukrainian health care workers without prior practice of tactical medicine, under the aegis of the Ukrainian Ministry of Health and the French Ministry of Foreign Affairs
+* 22 February 2022: Russian invasion of Ukraine begins
+* XXX: mission letter to the UOSSM and the Chain of Hope for the constitution of a training programme for Ukrainian health care workers without prior practice of tactical medicine, under the aegis of the Ukrainian Ministry of Health and the French Ministry of Foreign Affairs
 * 6 May 2022: development of training programmes by experts and training of trainers
 * 26 August 2022: official opening of the training centre in Lviv (Ukraine) and start of ultrasound training
